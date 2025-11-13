@@ -42,18 +42,6 @@ Visit the project website: [https://www.defensible10.org](https://www.defensible
 
 ---
 
-## Repository Structure
-
-.
-├── standards/          # Individual standard documents (Markdown)
-├── assets/             # Images, diagrams, and visuals
-├── translations/       # Community translations
-├── CODE_OF_CONDUCT.md
-├── LICENSE
-└── README.md
-
----
-
 ## Contributing
 
 We welcome contributions from the cybersecurity community! Whether you're improving documentation, adding translations, or suggesting enhancements to the standards, your input is valued.
